@@ -21,3 +21,6 @@
 - 🍞 Baking bread
 - 🦎 [Community science](https://www.inaturalist.org/people/iamscientistsam)
 - 🧗 Bouldering
+
+If you like the work I do, please consider donating to me at [Liberapay](https://liberapay.com/samherniman/)
+- <img src="https://img.shields.io/liberapay/receives/samherniman.svg?logo=liberapay">
